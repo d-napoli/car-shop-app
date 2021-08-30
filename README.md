@@ -1,18 +1,15 @@
 ![enter image description here](https://raw.githubusercontent.com/d-napoli/tinnova-backend-test/main/5-Cars-API/media/Front-End-Screen-Main.png)
 <br>
-# API de concessionária
-**Maior e mais complexa** parte da prova.<br>
-Essa questão foi dividida em duas pastas:<br>
+# Car shop API
 
 - Backend
 - Frontend<br>
 
 ## Frontend
-O Front foi desenvolvido utilizando ReactJS, HTML e CSS.<br>
-O React foi utilizado pela sua facilidade de componentização, organização de código e boas práticas.<br>
-Mais detalhes para instalação dos componentes necessários para rodar a aplicação [aqui](https://github.com/d-napoli/tinnova-backend-test/tree/main/5-Cars-API/front-end/)
+Frontend developed in React, React Hooks, Styled Components, Html and Css<br>
+More details about how to run the application, click [here](https://github.com/d-napoli/car-shop-app/tree/main/front-end)
 
 ## Backend
-O backend foi desenvolvido utilizando **Python**, especificamente com o framework **Django**<br>
-Para auxílio no desenvolvimento da **API**, foi utilizado o framework **Django Rest Framework**<br>
-Mais detalhes para instalação e executar o projeto backend, aqui [aqui](https://github.com/d-napoli/tinnova-backend-test/tree/main/5-Cars-API/back-end)
+Backend developed using **Python** and the **Django** framework<br>
+For helping the **API** development, I used the module **Django Rest Framework**<br>
+More details about how to run the application, click [here](https://github.com/d-napoli/car-shop-app/tree/main/back-end)
